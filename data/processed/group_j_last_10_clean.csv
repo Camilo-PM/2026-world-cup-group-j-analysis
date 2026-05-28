@@ -1,0 +1,41 @@
+team,date,opponent,gf,ga,result,goal_difference,result_clean,points
+Algeria,2026-03-31,uy Uruguay,0.0,0.0,D,0.0,Draw,1
+Algeria,2026-03-27,gt Guatemala,7.0,0.0,W,7.0,Win,3
+Algeria,2026-01-10,ng Nigeria,0.0,2.0,L,-2.0,Loss,0
+Algeria,2026-01-06,cd Congo DR,1.0,0.0,W,1.0,Win,3
+Algeria,2025-12-31,gq Equ. Guinea,3.0,1.0,W,2.0,Win,3
+Algeria,2025-12-28,bf Burkina Faso,1.0,0.0,W,1.0,Win,3
+Algeria,2025-12-24,sd Sudan,3.0,0.0,W,3.0,Win,3
+Algeria,2025-11-18,sa Saudi Arabia,2.0,0.0,W,2.0,Win,3
+Algeria,2025-11-13,zw Zimbabwe,3.0,1.0,W,2.0,Win,3
+Algeria,2025-10-14,ug Uganda,2.0,1.0,W,1.0,Win,3
+Argentina,2026-03-31,zm Zambia,5.0,0.0,W,5.0,Win,3
+Argentina,2026-03-27,mr Mauritania,2.0,1.0,W,1.0,Win,3
+Argentina,2025-11-14,ao Angola,2.0,0.0,W,2.0,Win,3
+Argentina,2025-10-14,pr Puerto Rico,6.0,0.0,W,6.0,Win,3
+Argentina,2025-10-10,ve Venezuela,1.0,0.0,W,1.0,Win,3
+Argentina,2025-09-09,ec Ecuador,0.0,1.0,L,-1.0,Loss,0
+Argentina,2025-09-04,ve Venezuela,3.0,0.0,W,3.0,Win,3
+Argentina,2025-06-10,co Colombia,1.0,1.0,D,0.0,Draw,1
+Argentina,2025-06-05,cl Chile,1.0,0.0,W,1.0,Win,3
+Argentina,2025-03-25,br Brazil,4.0,1.0,W,3.0,Win,3
+Austria,2026-03-31,kr Korea Republic,1.0,0.0,W,1.0,Win,3
+Austria,2026-03-27,gh Ghana,5.0,1.0,W,4.0,Win,3
+Austria,2025-11-18,ba Bosnia-Herzegovina,1.0,1.0,D,0.0,Draw,1
+Austria,2025-11-15,cy Cyprus,2.0,0.0,W,2.0,Win,3
+Austria,2025-10-12,ro Romania,0.0,1.0,L,-1.0,Loss,0
+Austria,2025-10-09,sm San Marino,10.0,0.0,W,10.0,Win,3
+Austria,2025-09-09,ba Bosnia-Herzegovina,2.0,1.0,W,1.0,Win,3
+Austria,2025-09-06,cy Cyprus,1.0,0.0,W,1.0,Win,3
+Austria,2025-06-10,sm San Marino,4.0,0.0,W,4.0,Win,3
+Austria,2025-06-07,ro Romania,2.0,1.0,W,1.0,Win,3
+Jordan,2025-11-18,ml Mali,0.0,0.0,D,0.0,Draw,1
+Jordan,2025-11-14,tn Tunisia,2.0,3.0,L,-1.0,Loss,0
+Jordan,2025-10-14,al Albania,2.0,4.0,L,-2.0,Loss,0
+Jordan,2025-10-10,bo Bolivia,0.0,1.0,L,-1.0,Loss,0
+Jordan,2025-09-09,do Dominican Rep.,3.0,0.0,W,3.0,Win,3
+Jordan,2025-09-04,ru Russia,0.0,0.0,D,0.0,Draw,1
+Jordan,2025-06-10,iq Iraq,0.0,1.0,L,-1.0,Loss,0
+Jordan,2025-06-05,om Oman,3.0,0.0,W,3.0,Win,3
+Jordan,2025-03-25,kr Korea Republic,1.0,1.0,D,0.0,Draw,1
+Jordan,2025-03-20,ps Palestine,3.0,1.0,W,2.0,Win,3
